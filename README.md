@@ -1,3 +1,3 @@
-# CAD_gripper
+# Hardware
 
-Initial repository for the CAD gripper semester project.
+Repository for electronics, CAD file and mechanical setup
