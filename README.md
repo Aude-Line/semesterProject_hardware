@@ -29,8 +29,8 @@ The electronics are an improved version of the system used in the lab. The key c
 
 | Qty | Component | Description |
 |-----|-----------|-------------|
-| 1 | ESP32-C6 dev board | Microcontroller — controls the DC-DC enable pin |
-| 1 | DC-DC converter | Regulates the battery voltage to supply the HVDC-DC converter (https://www.ti.com/lit/ug/slvuco7/slvuco7.pdf?ts=1695073636848&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FTPSM83100EVM)|
+| 1 | ESP32-C6 dev board | Microcontroller — controls the DC-DC enable pin (https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitm-1/user_guide.html)|
+| 1 | DC-DC converter | Regulates the battery voltage to supply the HVDC-DC converter (https://www.ti.com/lit/ug/slvuco7/slvuco7.pdf?ts=1695073636848&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FTPSM83100EVM, https://www.ti.com/lit/ds/symlink/tpsm83100.pdf?ts=1695310270090&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPSM83100)|
 | 1 | HVDC-DC converter | High-voltage DC-DC — powers the EHD pump; output is linear to input (https://www.xppower.com/storage/portals/0/pdfs/SF_A_Series.pdf)|
 | 1 | Potentiometer | Analog input for output voltage control |
 | 1 | Mechanical switch | Safety switch — cuts the circuit |
