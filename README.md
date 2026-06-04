@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/7390a7a7-a0ae-449d-9c6a-b7f72b6546bb
-
-
-
-https://github.com/user-attachments/assets/9684972a-f383-46b9-a667-21c126b8bcd5
-
 # CAD Gripper — Hardware Repository
 
 ## Intro
@@ -92,7 +84,7 @@ The electronics are an improved version of the system used in the lab. The key c
 
 > Refer to the assembly video below — note that not all components are rendered.
 
-https://github.com/user-attachments/assets/02c76b58-69f7-4b2a-94d6-dc3e0fdb5a20
+https://github.com/user-attachments/assets/7390a7a7-a0ae-449d-9c6a-b7f72b6546bb
 
 ---
 
