@@ -106,7 +106,8 @@ https://github.com/user-attachments/assets/7390a7a7-a0ae-449d-9c6a-b7f72b6546bb
 6. Slide the attachment plate into the 3D-printed part and screw in place if needed
 
 ![Gripper Assembly](gripper%20assembly.png)
-![Gripper Assembly Photo](gripper_assembly_picture.jpg)
+
+![Gripper Assembly Photo](gripper_assembly_picture_v2.jpg)
 
 ### Full Assembly
 
