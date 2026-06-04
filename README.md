@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/7390a7a7-a0ae-449d-9c6a-b7f72b6546bb
+
+
+
+https://github.com/user-attachments/assets/9684972a-f383-46b9-a667-21c126b8bcd5
+
 # CAD Gripper — Hardware Repository
 
 ## Intro
